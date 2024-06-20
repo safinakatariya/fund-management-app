@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912601771381",
+    "project_id": "fund-app-3c2b5",
+    "storage_bucket": "fund-app-3c2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912601771381:android:374ca795f8c2a95eceb73c",
+        "android_client_info": {
+          "package_name": "com.example.fund_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXAnpyGotpbsLqxiTgMetUXBY6TLjdQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
